@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AristidevsTareas</string>
+
+
+    <string name="todo_title">Bienvenido Chemo</string>
+    <string name="todo_categorias">categorias</string>
+    <string name="todo_tareas">Tareas</string>
+    <string name="todo_dialog">Introduce nueva tarea</string>
+    
+    <!-- Task-->
+    
+    <string name="Bussines">Trabajo</string>
+    <string name="Personal">Personal</string>
+    <string name="Otros">Otros</string>
+
+    <string name="btAnadirTarea">Crear tarea</string>
+
+</resources>
